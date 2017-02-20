@@ -1,0 +1,33 @@
+{
+  "name": "node-config-yml",
+  "version": "1.0.0",
+  "description": "Simple module for reading yml config in node js. Support inheritance in yml files",
+  "main": "./src/Config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekonomizer/node_config_yml.git"
+  },
+  "keywords": [
+    "node",
+    "yml",
+    "yaml",
+    "config",
+    "npm",
+    "inheritance",
+    "simple",
+    "slim"
+  ],
+  "author": "ekonomizer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ekonomizer/node_config_yml/issues"
+  },
+  "homepage": "https://github.com/ekonomizer/node_config_yml#readme",
+  "dependencies": {
+    "js-yaml": "2.1.0"
+  },
+  "devDependencies": {}
+}
