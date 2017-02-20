@@ -8,7 +8,6 @@ class Config {
 
     static load(filePath) {
         try {
-            console.log("111", filePath, fs.existsSync(filePath))
             if (!fs.existsSync(filePath))
                 return {};
 

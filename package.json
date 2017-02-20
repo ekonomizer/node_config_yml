@@ -1,6 +1,6 @@
 {
   "name": "node-config-yml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple module for reading yml config in node js. Support inheritance in yml files",
   "main": "./src/Config.js",
   "scripts": {
